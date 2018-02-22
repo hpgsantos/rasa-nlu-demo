@@ -1,8 +1,8 @@
 {
-  "language": "en",
+  "language": "pt",
   "pipeline": "spacy_sklearn",
-  "spacy_model_name": "en",
+  "spacy_model_name": "pt",
   "path" : "./trained",
   "cors_origins":["*"],
-  "data" : "./data/demo-rasa.json"
+  "data" : "./data/demo-rasa-pt.json"
 }

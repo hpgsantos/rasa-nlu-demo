@@ -9,10 +9,10 @@
         "rasa_nlu.extractors.entity_synonyms.EntitySynonymMapper", 
         "rasa_nlu.classifiers.sklearn_intent_classifier.SklearnIntentClassifier"
     ], 
-    "spacy_model_name": "en", 
-    "language": "en", 
+    "spacy_model_name": "pt", 
+    "language": "pt", 
     "intent_classifier_sklearn": "intent_classifier.pkl", 
-    "trained_at": "20180221-163425", 
+    "trained_at": "20180222-123021", 
     "training_data": "training_data.json", 
     "entity_extractor_crf": {
         "BILOU_flag": true, 
@@ -48,5 +48,5 @@
         ]
     }, 
     "rasa_nlu_version": "0.11.3", 
-    "regex_featurizer": "regex_featurizer.json"
+    "regex_featurizer": null
 }
